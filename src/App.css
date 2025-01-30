@@ -1,0 +1,33 @@
+#search{
+    margin-bottom: 20px;;
+}
+
+.side-menu{
+    text-decoration: none;
+    font-size: 24px;
+    color: grey;
+    width: 100%;
+}
+
+.side-menu:hover{
+    color: white;
+    background-color: grey;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.spacing-width{
+    margin: 10px 10px 10px 10px;
+}
+
+.days-worked{
+    background-color: green;
+    color: white;
+}
+
+.format-list{
+    border: 1px solid black !important;
+    max-height: 100px important;
+}
